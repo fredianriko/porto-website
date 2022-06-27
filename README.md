@@ -13,9 +13,9 @@ this portfolio is based on tutorial I followed from lama dev youtube channel
 
 ## Project/ File structure
 
-porto-website/                      --> root folder<br>
-        public/<br> 
-          assets/                   --> images<br>
+porto-website/&nbsp;&nbsp;&nbsp;&nbsp;--> root folder<br>
+&nbsp;&nbsp;public/<br> 
+&nbsp;&nbsp;&nbsp;assets/&nbsp;&nbsp;&nbsp;&nbsp;--> images<br>
         src/<br>
           components/               --> component folder which conmtain list of components<br>
             contact/<br>
