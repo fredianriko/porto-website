@@ -12,12 +12,12 @@ this portfolio is based on tutorial I followed from lama dev youtube channel
 
 
 ## Project/ File structure
-
-porto-website/&nbsp;&nbsp;&nbsp;&nbsp;--> root folder<br>
-&nbsp;&nbsp;public/<br> 
-&nbsp;&nbsp;&nbsp;assets/&nbsp;&nbsp;&nbsp;&nbsp;--> images<br>
+```
+porto-website/                          --> root folder<br>
+        public/<br> 
+                assets/                 --> images<br>
         src/<br>
-          components/               --> component folder which conmtain list of components<br>
+          components/                   --> component folder which conmtain list of components<br>
             contact/<br>
               contact.jsx<br>
               contact.scss<br>
@@ -29,7 +29,7 @@ porto-website/&nbsp;&nbsp;&nbsp;&nbsp;--> root folder<br>
             topbar/<br>
             works/<br>
           App.jsx                   --> main app file, the app starts from here<br>
-          
+```          
           
 ## starting the apps
 
