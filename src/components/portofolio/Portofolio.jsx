@@ -50,15 +50,15 @@ export default function Portofolio() {
         </div>
         <div className="item">
           <img src="assets/banking.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Dashboard</h3>
         </div>
         <div className="item">
           <img src="assets/banking.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Landing Page</h3>
         </div>
         <div className="item">
           <img src="assets/banking.jpg" alt="" />
-          <h3>Banking App</h3>
+          <h3>Crud App</h3>
         </div>
         <div className="item">
           <img src="assets/banking.jpg" alt="" />
