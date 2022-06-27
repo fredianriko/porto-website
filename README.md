@@ -13,22 +13,22 @@ this portfolio is based on tutorial I followed from lama dev youtube channel
 
 ## Project/ File structure
 
-porto-website/                      --> root folder.
-        public/. 
-          assets/                   --> images.
-        src/
-          components/               --> component folder which conmtain list of components.
-            contact/.
-              contact.jsx.
-              contact.scss.
-            intro/.
-            menu/.
-            portfolioList/.
-            portfolio/.
-            testimonials/.
-            topbar/.
-            works/.
-          App.jsx                   --> main app file, the app starts from here.
+porto-website/                      --> root folder<br>
+        public/<br> 
+          assets/                   --> images<br>
+        src/<br>
+          components/               --> component folder which conmtain list of components<br>
+            contact/<br>
+              contact.jsx<br>
+              contact.scss<br>
+            intro/<br>
+            menu/<br>
+            portfolioList/<br>
+            portfolio/<br>
+            testimonials/<br>
+            topbar/<br>
+            works/<br>
+          App.jsx                   --> main app file, the app starts from here<br>
           
           
 ## starting the apps
